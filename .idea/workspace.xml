@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3687e2dc-f5c1-4715-a861-b0f1df2cb05d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wimF2fmxmL5R1jHJxQhx8C3z3o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TCAutomation" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PHPTravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phptestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="phptestcases" />
+      <option name="MAIN_CLASS_NAME" value="phptestcases.TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.clickonPaynow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PHPTravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phptestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="phptestcases" />
+      <option name="MAIN_CLASS_NAME" value="phptestcases.TestCases" />
+      <option name="METHOD_NAME" value="clickonPaynow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifyamountchangesaftrclickoncheckbox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PHPTravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phptestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="phptestcases" />
+      <option name="MAIN_CLASS_NAME" value="phptestcases.TestCases" />
+      <option name="METHOD_NAME" value="verifyamountchangesaftrclickoncheckbox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifyattibutesdetailsafterenteringcardDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PHPTravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phptestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="phptestcases" />
+      <option name="MAIN_CLASS_NAME" value="phptestcases.TestCases" />
+      <option name="METHOD_NAME" value="verifyattibutesdetailsafterenteringcardDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifybyclickingonOkbuttonafterentringOTP" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PHPTravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phptestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="phptestcases" />
+      <option name="MAIN_CLASS_NAME" value="phptestcases.TestCases" />
+      <option name="METHOD_NAME" value="verifybyclickingonOkbuttonafterentringOTP" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.verifyamountchangesaftrclickoncheckbox" />
+        <item itemvalue="TestNG.TestCases.verifybyclickingonOkbuttonafterentringOTP" />
+        <item itemvalue="TestNG.TestCases.clickonPaynow" />
+        <item itemvalue="TestNG.TestCases.verifyattibutesdetailsafterenteringcardDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3687e2dc-f5c1-4715-a861-b0f1df2cb05d" name="Default Changelist" comment="" />
+      <created>1628949678427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628949678427</updated>
+    </task>
+    <servers />
+  </component>
+</project>
